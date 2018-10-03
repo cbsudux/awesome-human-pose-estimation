@@ -4,7 +4,7 @@
   <img src="diagram_2.png">
 </p>
 
-A collection of resources on Human Pose Estimation.
+A collection of awesome resources on Human Pose Estimation.
 
 ## Why awesome human pose estimation?
 
@@ -12,7 +12,7 @@ This is a collection of papers and resources I curated when learning the ropes i
 
 ## Contributing
 
-If you think I have missed out on something / have any suggestions (papers, articles and other resources etc), feel free to pull a request. (add pull request link)
+If you think I have missed out on something / have any suggestions (papers, articles and other resources etc), feel free to [pull a request](https://github.com/cbsudux/awesome-human-pose-estimation/pulls)
 
 ## Table of Contents
 - [Papers](#papers)
