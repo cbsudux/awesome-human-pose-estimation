@@ -8,7 +8,7 @@ A collection of resources on Human Pose Estimation.
 
 ## Why awesome human pose estimation?
 
-This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. I will be continuously updating this list with the latest papers and resources. I will also be adding a small wiki that covers the basics of human pose estimation soon.
+This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. I will be continuously updating this list with the latest papers and resources. I will also be adding a detailed wiki that covers the basics of human pose estimation soon.
 
 ## Contributing
 
