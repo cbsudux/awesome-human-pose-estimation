@@ -12,7 +12,7 @@ This is a collection of papers and resources I curated when learning the ropes i
 
 ## Contributing
 
-If you think I have missed out on something / have any suggestions (papers, articles and other resources etc), feel free to [pull a request](https://github.com/cbsudux/awesome-human-pose-estimation/pulls)
+If you think I have missed out on something (or) have any suggestions (papers, articles and other resources etc), feel free to [pull a request](https://github.com/cbsudux/awesome-human-pose-estimation/pulls)
 
 ## Table of Contents
 - [Papers](#papers)
