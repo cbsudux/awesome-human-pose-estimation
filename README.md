@@ -4,7 +4,7 @@
   <img src="diagram_2.png">
 </p>
 
-A collection of resources on 2D and 3D pose estimation, 3D shape generation, person image generation and person reconstruction. 
+A collection of resources on Human Pose Estimation.
 
 ## Why awesome human pose estimation?
 
