@@ -1,7 +1,7 @@
 # Awesome Human Pose Estimation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-  <img src="diagram.png">
+  <img src="diagram_2.png">
 </p>
 
 A collection of resources on 2D and 3D pose estimation, 3D shape generation, person image generation and person reconstruction. 
