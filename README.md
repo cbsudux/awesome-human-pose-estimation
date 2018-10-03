@@ -1,7 +1,7 @@
 # Awesome Human Pose Estimation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-  <img src="diagram_2.png">
+  <img src="diagram_2.png" width=700>
 </p>
 
 A collection of awesome resources on Human Pose Estimation.
