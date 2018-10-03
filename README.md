@@ -4,7 +4,7 @@
   <img src="diagram_2.png" width=700>
 </p>
 
-A collection of awesome resources on Human Pose Estimation.
+A collection of resources on Human Pose Estimation.
 
 ## Why awesome human pose estimation?
 
