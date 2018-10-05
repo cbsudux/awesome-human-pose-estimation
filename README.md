@@ -155,7 +155,7 @@ Feedback and contributions are welcome!
 
 ## Todo
 
-- [ ] Add wiki
+- [x] Add basics
 - [ ] Add papers on Person Re-Identification
 - [ ] Add papers on Multi Person Pose estimation
 
