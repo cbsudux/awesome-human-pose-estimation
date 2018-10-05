@@ -8,7 +8,7 @@ A collection of resources on Human Pose Estimation.
 
 ## Why awesome human pose estimation?
 
-This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. I will be continuously updating this list with the latest papers and resources. If you want some theory on Human Pose Estimation, check out [Human Pose Estimation-101](https://github.com/cbsudux/Human-Pose-Estimation-101)
+This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. I will be continuously updating this list with the latest papers and resources. If you want some theory on Human Pose Estimation, check out [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101)
 
 
 ## Contributing
@@ -34,7 +34,7 @@ Feedback and contributions are welcome!
   - [Others](#others)
 
 ## Basics
-- [Human Pose Estimation-101](https://github.com/cbsudux/Human-Pose-Estimation-101)
+- [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101)
 
 ## Papers
 
