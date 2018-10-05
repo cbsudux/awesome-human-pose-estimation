@@ -33,7 +33,7 @@ Feedback and contributions are welcome!
   - [Torch](#Torch)
   - [Others](#others)
 
-## Baics
+## Basics
 - [Human Pose Estimation-101](https://github.com/cbsudux/Human-Pose-Estimation-101)
 
 ## Papers
