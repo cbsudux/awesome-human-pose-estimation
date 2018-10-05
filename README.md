@@ -98,9 +98,7 @@ Feedback and contributions are welcome!
 - [RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) - [[CODE1]](https://github.com/Fang-Haoshu/RMPE)[[CODE2]](https://github.com/MVIG-SJTU/AlphaPose) - Fang, H., Xie, S., & Lu, C. (ICCV 2017)
 - [Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) - [[CODE]](https://github.com/facebookresearch/Densepose) - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)
 
-### Papers todo
-- [ ] Person Re-Identification
-- [ ] Multi Person Pose estimation
+
 
 
 ## Datasets
@@ -150,6 +148,13 @@ Feedback and contributions are welcome!
 
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [DensePose](https://github.com/facebookresearch/DensePose)
+
+## Todo
+
+- [ ] Add wiki
+- [ ] Add papers on Person Re-Identification
+- [ ] Add papers on Multi Person Pose estimation
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
