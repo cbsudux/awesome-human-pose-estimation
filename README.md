@@ -139,6 +139,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 ### PyTorch
 - [pytorch-pose-hg-3d](https://github.com/xingyizhou/Pytorch-pose-hg-3d)
+- [3d_pose_baseline_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch)
 - [pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)
 - [pytorch-pose](https://github.com/bearpaw/pytorch-pose)
