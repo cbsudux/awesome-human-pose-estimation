@@ -149,6 +149,7 @@ semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) - [[CODE]](https
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)
 - [pytorch-pose](https://github.com/bearpaw/pytorch-pose)
 - [human-pose-estimation.pytorch](https://github.com/Microsoft/human-pose-estimation.pytorch)
+- [deep-high-resolution-net.pytorch] (https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
 ### TensorFlow
 
