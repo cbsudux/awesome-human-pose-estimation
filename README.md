@@ -33,7 +33,8 @@ Feedback and contributions are welcome!
   - [Others](#others)
 
 ## Basics
-- [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101)
+- [A 2019 guide to Human Pose Estimation with Deep Learning](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=reddit&utm_medium=social&utm_campaign=pose&utm_content=GROUP_NAME)
+
 
 ## Papers
 
