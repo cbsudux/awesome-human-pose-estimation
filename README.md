@@ -129,6 +129,7 @@ semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) - [[CODE]](https
 - [HumanEva](http://humaneva.is.tue.mpg.de/)
 - [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 - [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
+- [CMU Panoptic Studio](http://domedb.perception.cs.cmu.edu/)
 
 
 ## Workshops
