@@ -94,6 +94,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/pdf/1804.04875v3.pdf) - [[CODE]](https://github.com/gulvarol/bodynet) - Varol, G., Ceylan, D., Russell, B., Yang, J., Yumer, E., Laptev, I., & Schmid, C. (ECCV 2018)
 - [3D human pose estimation in video with temporal convolutions and
 semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) - [[CODE]](https://github.com/facebookresearch/VideoPose3D) - Pavllo, D., Feichtenhofer, C., Grangier, D., & Auli, M (ArXiv 2018)
+- [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - [[CODE1]](http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/)[[CODE2]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) - Mehta, D.,  Sotnychenko, O., Mueller, F., Xu, W., Sridhar, S., Pons-Moll, G., Theobalt, C. (3DV 2018)
 
 
 ### Person generation
@@ -111,6 +112,7 @@ semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) - [[CODE]](https
 - [RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) - [[CODE1]](https://github.com/Fang-Haoshu/RMPE)[[CODE2]](https://github.com/MVIG-SJTU/AlphaPose) - Fang, H., Xie, S., & Lu, C. (ICCV 2017)
 - [Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) - [[CODE]](https://github.com/facebookresearch/Densepose) - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)
 - [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) - [[CODE]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) Osokin, D. (ArXiv 2018)
+  - Extension to 3D pose estimation (based on [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - Mehta, D., et al.) - [[CODE]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)
 
 
 
