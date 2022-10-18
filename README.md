@@ -113,7 +113,7 @@ semi-supervised training](https://arxiv.org/pdf/1811.11742.pdf) - [[CODE]](https
 - [Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) - [[CODE]](https://github.com/facebookresearch/Densepose) - Guler, R.A., Neverova, N., & Kokkinos, I. (ArXiv 2018)
 - [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) - [[CODE]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) Osokin, D. (ArXiv 2018)
   - Extension to 3D pose estimation (based on [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - Mehta, D., et al.) - [[CODE]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)
-
+- [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008) - [[CODE]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Z. Cao and G. Hidalgo Martinez and T. Simon and S. Wei and Y. A. Sheikh (TPAMI 2019)
 
 
 
